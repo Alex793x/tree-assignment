@@ -1,0 +1,35 @@
+[
+    {
+        "question": "Does it have 2 legs?",
+        "yes": {
+            "question": "Does it bark?",
+            "yes": {
+                "question": "Is it HUMAN BEING!"
+            },
+            "no": {
+                "question": "IS IT CAT"
+            }
+        },
+        "no": {
+            "question": "Does it bark?",
+            "yes": {
+                "question": "Does it like to be walked?",
+                "yes": {
+                    "question": "Is it DOGGO!"
+                },
+                "no": {
+                    "question": "IS IT LAMA"
+                }
+            },
+            "no": {
+                "question": "Does it kill?",
+                "yes": {
+                    "question": "Is it LION!"
+                },
+                "no": {
+                    "question": "IS IT FISH"
+                }
+            }
+        }
+    }
+]
